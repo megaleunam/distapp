@@ -1,1 +1,2 @@
-"# distapp app de Estudiantes appi perteneciente al Sase de la universidad" 
+"App perteneciente al Sase de la universidad, Micro servicio Estudiantes,
+Autores: Luis Mariño, Carlos Rosas" 
